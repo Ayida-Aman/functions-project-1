@@ -7,3 +7,4 @@
  calculateTotal([10.99, 5.75, 3.50]) should return 20.
  calculateTotal([50.00, 25.50]) should return 75.
  calculateTotal([]) should return 0
+ adding a random line for tasting
