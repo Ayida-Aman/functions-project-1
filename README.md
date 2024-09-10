@@ -8,3 +8,5 @@
  calculateTotal([50.00, 25.50]) should return 75.
  calculateTotal([]) should return 0
  adding a random line for tasting
+
+ >> given by Mr. Abdurehmannnn
